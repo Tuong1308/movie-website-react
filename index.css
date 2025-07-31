@@ -1,0 +1,17 @@
+/* Reset layout và set nền đen */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #000;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
