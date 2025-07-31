@@ -1,6 +1,6 @@
 # 🎬 Movie Time
 This is the frontend of a movie website basic first look
-A modern movie website built with **React** Users can browse popular movies, explore genres, and save their favorite films.
+.A modern movie website built with **React** Users can browse popular movies, explore genres, and save their favorite films.
 
 ## 🚀 Features
 
