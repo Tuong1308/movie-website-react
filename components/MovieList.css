@@ -1,0 +1,11 @@
+.movie-list {
+  background-color: #121212;
+  padding: 60px 80px;
+}
+
+.movie-list h2 {
+  color: white;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
